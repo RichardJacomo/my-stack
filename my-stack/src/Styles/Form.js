@@ -74,11 +74,6 @@ export const Form = styled.form`
   .advice {
     color: var(--grey-1);
     font-size: var(--font-size-5);
-    margin-bottom: 10px;
-  }
-  .error-msg {
-    color: var(--negative);
-    font-size: var(--font-size-5);
     text-align: center;
     font-weight: 600;
     width: 100%;
